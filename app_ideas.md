@@ -2,11 +2,11 @@ Mobile App Dev - App Brainstorming Example
 ===
 
 ## Favorite Existing Apps - List
-Instagram
-Kik
-Google Chrome
-Gmail
-LA Metro App
+1. Instagram
+2. Kik
+3. Google Chrome
+4. Gmail
+5. LA Metro App
 
 
 ## Favorite Existing Apps - Categorize and Evaluate
@@ -18,23 +18,23 @@ LA Metro App
 - **Category:** Social, Messaging
 
 ### Google Chrome
-- **Category:** Web browsing, social, video, audio
+- **Category:** Web browsing, social, productivity, educational
 
 ### Gmail
-- **Category:** Email, social
+- **Category:** Email, social, productivity
 
 ### LA Metro App
-- **Category:** 
+- **Category:** Productivity
 
 ## New App Ideas - List
 1. Work Collab
-    - Connect fellow peers to work on a single assignment
+    - Connect fellow peers to work on a single assignment.
 2. Idea Generator
-    - Generates ideas for use in assignments
+    - Generates ideas for use in assignments.
 3. Color Schematics
     - Compare colors to determine if they are the same or not.
 4. Money Manager
-    - Keeps track of user spending and 
+    - Keeps track of user spending and general money managing.
 
 ## Top 3 New App Ideas
  - Budget Management 
