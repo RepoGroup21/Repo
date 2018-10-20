@@ -35,6 +35,8 @@ Mobile App Dev - App Brainstorming Example
     - Compare colors to determine if they are the same or not.
 4. Money Manager
     - Keeps track of user spending and general money managing.
+5. Supplement Manager
+    - Keeps track of the supplements you buy and what they do for you.
 
 ## Top 3 New App Ideas
  - Budget Management 
@@ -77,3 +79,13 @@ Mobile App Dev - App Brainstorming Example
     - **Market:** Anyone who has a hard time controlling how much they spend or just someone who likes keeping things organized.
     - **Habit:** Users will use this app anytime they make a purchase or to check on the price of an item they want.
     - **Scope:** *V1* will be able to get some basics in, like storage for amounts, a basic calculator, inputs and outputs. *V2* should start to work on location tagging and a spreadsheet-like design for organisation. *V3* could include some small things, like taxes (in the US only?) to inform users of the actual price in their area instead of the price listed using the location tag. *V4* will be connecting the users together to be able to share real time information about priced items.
+
+5. Supplement Manager
+    - **Description:** User can Search for supplements. Add supplements to a list. Set timers for when to take supplements.
+    - **Category** Health, Fitness, Productivity
+    - **Mobile:**  Allows user to be able to remember what they take and when to take it.
+    - **Story:**   Allow user to schedule on calendar/ User notification / Set reminders / Find stores that sell them
+    - **Market:**  Allows user to connect to the fitness and health market and find what they need
+    - **Habit:**   Notifications each day when to take supplement or medicine and search for new supplement to help with surrent                            problems.
+    - **Scope:**   Be able to look for different kinds of supplements, where they can find it, what it does for you, how much you should                    take or can take, and reminders when to take them.
+                 
